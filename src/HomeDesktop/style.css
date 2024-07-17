@@ -1,0 +1,255 @@
+.home-desktop {
+  background-color: #000000e6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-desktop .div {
+  background-color: var(--x-color-black-dark);
+  height: 2570px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.home-desktop .overlap {
+  height: 2308px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.home-desktop .banner-main {
+  height: 832px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1443px;
+}
+
+.home-desktop .cards {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 93px;
+  justify-content: center;
+  left: 45px;
+  position: absolute;
+  top: 825px;
+}
+
+.home-desktop .div-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  position: relative;
+}
+
+.home-desktop .cards-front {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.home-desktop .group {
+  height: 319.85px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .video-card {
+  background-image: url(./image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .group-2 {
+  height: 324.35px;
+  position: relative;
+  width: 430.05px;
+}
+
+.home-desktop .video-card-2 {
+  background-image: url(./image-7-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .group-3 {
+  height: 325px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .video-card-3 {
+  background-image: url(./image-7-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .div-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.home-desktop .video-card-4 {
+  background-image: url(./image-7-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .group-4 {
+  height: 320px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .video-card-5 {
+  background-image: url(./image-7-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .group-5 {
+  height: 321.2px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .video-card-6 {
+  background-image: url(./image-7-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .video-card-7 {
+  background-image: url(./image-7-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .overlap-wrapper {
+  height: 317px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .overlap-group {
+  height: 317px;
+  position: relative;
+}
+
+.home-desktop .video-card-8 {
+  background-image: url(./image-7.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .overlap-group-wrapper {
+  height: 316.3px;
+  position: relative;
+  width: 430px;
+}
+
+.home-desktop .overlap-2 {
+  height: 316px;
+  position: relative;
+}
+
+.home-desktop .video-card-9 {
+  background-image: url(./image-7-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 15px;
+  height: 261px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 429px;
+}
+
+.home-desktop .nav-bar {
+  align-items: center;
+  background-color: #262626;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-color: #2271d1;
+  box-shadow: 0px 5px 29px #2271d1b2;
+  display: flex;
+  gap: 787px;
+  height: 125px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 1443px;
+}
+
+.home-desktop .logo-main {
+  background-image: url(./image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  position: relative;
+  width: 168.45px;
+}
+
+.home-desktop .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 25px;
+  justify-content: center;
+  position: relative;
+}

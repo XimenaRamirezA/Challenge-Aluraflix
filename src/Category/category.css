@@ -1,0 +1,38 @@
+.category {
+  height: 70px;
+  width: 432px;
+}
+
+.category .title-wrapper {
+  border-radius: 15px;
+  height: 70px;
+  position: relative;
+}
+
+.category .title {
+  color: var(--x-color-gray-light);
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  height: 70px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 432px;
+}
+
+.category .frontend {
+  background-color: #6bd1ff;
+  
+}
+
+.category .inov-gest-o {
+  background-color: #ffba05;
+}
+
+.category .backend {
+  background-color: var(--x-color-backend);
+}

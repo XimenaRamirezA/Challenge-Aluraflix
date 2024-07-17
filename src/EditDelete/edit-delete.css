@@ -1,0 +1,76 @@
+.edit-delete {
+  height: 59px;
+  width: 430px;
+}
+
+.edit-delete .overlap-group {
+  background-color: #000000e6;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-radius: 0px 0px 15px 15px;
+  border-right-style: solid;
+  border-right-width: 5px;
+  box-shadow: inset 0px -4px 5px 3px #6bd1ff;
+  height: 69px;
+  left: -5px;
+  position: relative;
+  top: -5px;
+  width: 439px;
+}
+
+.edit-delete .frame {
+  align-items: center;
+  display: flex;
+  gap: 70px;
+  justify-content: center;
+  position: relative;
+  top: 15px;
+  width: 430px;
+}
+
+.edit-delete .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.edit-delete .vector {
+  height: 28px;
+  position: relative;
+  width: 25.43px;
+}
+
+.edit-delete .text-wrapper {
+  color: #ffffff;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.edit-delete .img {
+  height: 28px;
+  position: relative;
+  width: 25.47px;
+}
+
+.edit-delete .back {
+  border-color: #00c86f;
+}
+
+.edit-delete .inov-gest {
+  border-color: #ffba05;
+}
+
+.edit-delete .front {
+  border-color: #6bd1ff;
+}
